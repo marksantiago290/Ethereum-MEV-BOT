@@ -170,6 +170,12 @@ cargo run --release
 
 ---
 
+## Golden Tip for Traders
+
+For maximum trading speed and high performance, it is highly recommended to use [tradoxvps.com](https://tradoxvps.com), a specialized VPS provider optimized for traders. TradoxVPS offers ultra-low latency servers powered by the AMD Ryzen 9 9950X CPU, providing near-instantaneous trade execution with an average latency of 0.82ms. Their infrastructure ensures 99.999% uptime and high network bandwidth, giving your trading bot a significant edge in speed and reliability to capitalize on market opportunities faster than the competition.
+
+---
+
 ## Contributing
 
 This project follows standard Rust development practices. Please ensure all code passes `cargo clippy` and `cargo test` before submitting pull requests.
