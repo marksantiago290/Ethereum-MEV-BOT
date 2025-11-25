@@ -190,11 +190,11 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 📞 Contact Information
 
-- **Email:** marksantiago0929@gmail.com  
-- **Telegram:** [@marksantiago02](https://t.me/marksantiago02)  
-- **Discord:** @marksantiago02  
-- **Twitter:** [@MarkSantiago02](https://twitter.com/MarkSantiago02)  
-- **Instagram:** [@marksantiago_0929](https://www.instagram.com/marksantiago_0929/)  
+- **Email:** marksantiago2909@gmail.com  
+- **Telegram:** [@marksantiago290](https://t.me/marksantiago290)  
+- **Discord:** @marksantiago290  
+- **Twitter:** [@marksantiago290](https://x.com/marksantiago290)  
+- **Instagram:** [@marksantiago290](https://www.instagram.com/marksantiago290/)  
 
 ---
 
